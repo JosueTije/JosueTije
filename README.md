@@ -5,8 +5,8 @@
 I'm a mexican based passionate programmer currently pursuing the career of Computer Science and Technology at Tec de Monterrey. I like to develop projects for local business to help them improve their processes and have a more efficient way of working. I also like to assist hackatons to learn, connect, and develop andvanced projects for bigger companies. 
 <br><br>
 📫 How to reach me:<br>
-  - **E-mail:** josue.tijerina@outlook.com<br>
-  - **Discord:** josuetije <br>
+  - E-mail: josue.tijerina@outlook.com<br>
+  - Discord: josuetije <br>
 
 
 <h3 align="center">Connect with me📲</h3>
