@@ -2,8 +2,8 @@
 <h3 align="center">Sophomore at Tecnologico de Monterrey</h3>
 
 <h2 align="left">👤About me</h2>
-I'm a mexican based passionate programmer currently pursuing the career of Computer Science and Technology at Tec de Monterrey. 
-
+I'm a mexican based passionate programmer currently pursuing the career of Computer Science and Technology at Tec de Monterrey. I like to develop projects for local business to help them improve their processes and have a more efficient way of working. I also like to assist hackatons to learn, connect, and develop andvanced projects for bigger companies. 
+<br><br>
 📫 How to reach me:<br>
   - **E-mail:** josue.tijerina@outlook.com<br>
   - **Discord:** josuetije <br>
@@ -20,7 +20,12 @@ I'm a mexican based passionate programmer currently pursuing the career of Compu
 <h3 align="center">Skills💪</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,swift,matlab,vscode,java,arduino,flutter,r,apple" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,matlab,vscode,java,arduino,flutter,r,apple" />
   </a>
 </p>
-
+<h3 align="center">Learning📚</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,html,ai " />
+  </a>
+</p>
