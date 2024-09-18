@@ -20,7 +20,7 @@ I'm a mexican based passionate programmer currently pursuing the career of Compu
 <h3 align="center">Skills💪</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,matlab,vscode,java,arduino,flutter,r,apple" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,matlab,vscode,sql,java,arduino,flutter,r,apple" />
   </a>
 </p>
 <h3 align="center">Learning📚</h3>
