@@ -11,9 +11,7 @@ I'm a mexican based passionate programmer currently pursuing the career of Compu
 
 <h3 align="center">Connect with me📲</h3>
 <p align="center">
-<a href="mailto:josue.tijerina@outlook.com 
-  subject=Interested%20in%20connecting&
-  body=Hey!%0ASaw%20your%20profile%20on%20Github%20and%20wanted%20to%20contact%20you%20because%20..."> <img align="center" src="https://github.com/sempostma/office365-icons/blob/master/svg/outlook.svg" height="50" width="50" style="border-radius: 50%;" /></a>
+<a href="mailto:josue.tijerina@outlook.com?subject=Interested%20in%20connecting& body=Hey!%0ASaw%20your%20profile%20on%20Github%20and%20wanted%20to%20contact%20you%20because%20..."> <img align="center" src="https://github.com/sempostma/office365-icons/blob/master/svg/outlook.svg" height="50" width="50" style="border-radius: 50%;" /></a>
 <a href="https://www.linkedin.com/in/josuetijerina/"> <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50"/></a>
 <a href="https://www.instagram.com/tijerina.josue/"> <img align="center" src="https://skillicons.dev/icons?i=instagram" height="50" width="50"/></a>
 
