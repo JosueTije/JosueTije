@@ -26,6 +26,6 @@ I'm a mexican based passionate programmer currently pursuing the career of Compu
 <h3 align="center">Learning📚</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,html,ai " />
+    <img src="https://skillicons.dev/icons?i=swift,html,ai,node " />
   </a>
 </p>
