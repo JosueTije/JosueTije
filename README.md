@@ -20,7 +20,7 @@ Contact me:<br>
 <h3 align="center">Skills💪</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,matlab,vscode,css,java,arduino,flutter,r,apple,SQL" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,matlab,vscode,css,java,arduino,flutter,r,apple" />
   </a>
   <a href: "https://www.mysql.com"> <img align="center" src="https://www.esepestudio.com/archivos/image/_noticias/medias/mysql.gif" height="50" width="50"/> </a>
 </p>
