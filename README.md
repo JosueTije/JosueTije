@@ -23,7 +23,6 @@ Contact me:<br>
     <img src="https://skillicons.dev/icons?i=py,cpp,matlab,vscode,css,java,arduino,flutter,r,apple" />
   </a>
   <a href: "https://www.mysql.com"> <img src="https://www.esepestudio.com/archivos/image/_noticias/medias/mysql.gif" 
-                                      alt="MySQL Logo" 
                                       height="50" 
                                       width="50" 
                                       style="clip-path: circle(50%);"/> </a>
